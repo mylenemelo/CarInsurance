@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App_Data",
+    "\\App_Start",
+    "\\bin",
+    "\\Controllers",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Insuree"
+  ],
+  "SelectedNode": "\\Models\\InsuranceEntities.Context.cs",
+  "PreviewInSolutionExplorer": false
+}
