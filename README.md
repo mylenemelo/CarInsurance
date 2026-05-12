@@ -14,4 +14,3 @@ ASP.NET MVC application that calculates insurance quotes based on user input and
 - Uses Entity Framework (LocalDB)
 - Stored in App_Data (.mdf / .ldf)
 
-On Mon, 11 May 2026 at 19:58, Claress Magat <claress09magat@gmail.com> wrote:
